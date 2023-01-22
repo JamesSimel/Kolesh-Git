@@ -1,0 +1,111 @@
+JavaScript Cheat Sheet: The Advanced Concepts 💻🚀
+We created this JavaScript Cheat Sheet page initially for Zero To Mastery students who are taking our JavaScript: The Advanced Concepts course where they learn modern, advanced JavaScript practices and grow to be in the top 10% of JavaScript developers. We have now made this available to be a handy reference to help all web developers learn and remember common JavaScript concepts.
+
+Sign up below to be the first to get new cheat sheets and other free resources
+If you'd like to download a PDF version of this JavaScript Cheat Sheet: The Advanced Concepts, enter your email below and we'll send it to you!
+
+Email
+SUBSCRIBE
+No spam ever, unsubscribe anytime
+
+If you’ve stumbled across this page and are just starting to learn JavaScript, congrats! Being a web developer is a fantastic career option and industry demand for JavaScript developers is HUGE.
+
+If you're new to JavaScript, Andrei Neagoie wrote a free step-by-step guide that will teach you how to learn how to code, get hired in under 6 months and have fun along the way.
+
+If you're already a web developer but stuck in a junior or intermediate role, let us help fast track you to get the knowledge that Senior Javascript Developers have in just 30 days.
+
+By the end of our Advanced JavaScript Concepts course, you will be in the top 10% of JavaScript Programmers.
+
+Enough jibber-jabber from us, please enjoy this guide and if you'd like to submit any corrections or suggestions, please feel free to email us at support@zerotomastery.io
+
+Contents
+JavaScript Engine
+The Parser
+The AST
+The Interpreter
+The Compiler
+The Combo
+Writing Optimized Code
+Memoization
+Inline Caching
+Hidden Classes
+Managing Arguments
+Call Stack and Memory Heap
+Memory Heap
+Call Stack
+Stack Overflow
+Garbage Collection
+Synchronous
+Event Loop and Callback Queue
+Job Queue
+3 Ways to Promise
+Threads, Concurrency, and Parallelism
+Execution Context
+Global Execution Context
+Function Execution Context
+Arrow Functions
+Hoisting
+Lexical Environment
+Scope Chain
+Function and Block Scope
+IIFE - Immediately Invoked Function Expression
+This
+Lexical vs Dynamic Scope
+Call, Apply, Bind
+Call
+Apply
+Bind
+Currying with bind
+JavaScript Types
+Objects in JavaScript
+Primitive vs Non Primitive
+Type Coercion
+Static vs Dynamic Typed
+The 2 Pillars: Closures and Prototypes
+Function Constructor
+Prototypal Inheritance
+Prototype vs proto
+Callable Object
+Higher Order Functions
+Closures
+Memory Efficient
+Encapsulation
+Object Oriented Programming
+Object Oriented Programming
+Factory Functions
+Stores
+Object.create
+Constructor Functions
+Class
+Private and public fields
+Functional Programming
+Pure Functions
+Referential transparency
+Idempotence
+Imperative vs Declarative
+Immutability
+Partial Application
+Pipe and Compose
+Arity
+Composition vs Inheritance
+OOP Problems
+Finally
+Modules in JavaScript
+Module Patterns
+Issues With Modules
+ES6 Modules
+Error Handling
+The End...
+Data Structures & Algorithms
+Data Structures
+How do computers work?
+Popular Data Structures
+Arrays
+Implementing an Array
+Hash tables
+Hash Collisions
+Hashing in JavaScript
+Create a Hash Table
+Credits
+Course Map
+AJS Course CoggleMap
